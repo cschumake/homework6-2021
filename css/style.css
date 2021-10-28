@@ -280,6 +280,8 @@ footer {
     */
     body {
         background-image: none;
+        background: none;
+        background-color: #ffffff;
     }
 
     .nav_links {
