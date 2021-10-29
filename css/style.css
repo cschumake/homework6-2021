@@ -246,7 +246,7 @@ footer {
         position: relative;
     }
     a.skip {
-        top: 0px;
+        top: -40px;
         position: relative;
     }
     /*  Problem 13 
