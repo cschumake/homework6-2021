@@ -245,6 +245,10 @@ footer {
     .card>header {
         position: relative;
     }
+    a.skip {
+        top: 0px;
+        position: relative;
+    }
     /*  Problem 13 
         Edit the css for the card class to match our example below.  Achieve this by using a 
         flex-property to specify a “size” of 250px.  
